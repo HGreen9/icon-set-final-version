@@ -16,5 +16,6 @@
 * Icons from [Lucide](https://lucide.dev/)
 * Use [GreenSock](https://greensock.com/) animation library
 * [Normalize CSS](https://necolas.github.io/normalize.css/)
-
+* Favicons with [Figma](https://www.figma.com/)
+* Tested with [CodePen](https://codepen.io/)
 
