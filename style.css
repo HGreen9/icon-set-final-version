@@ -1,35 +1,76 @@
 /* Diagnostic Styling */
-* {
+/* * {
   outline: 2px dotted gray;
-} 
+}  */
 
 /* temp background color */
 body {
-    background: lightgray;
+  background: #d1f1ec;
 }
-  
+
 /* vertical and horizontal centering */
 body {
-  display: grid;
-  place-content: center;
-  height: 100vh;
+display: grid;
+place-content: center;
+height: 100vh;
 }
 
 /* containers */
 main {
-  display: flex;
+display: flex;
 }
 
-/* cptionally changef */
+/* optionally changed */
 main section {
-  height: 100px;
-  width: 100px;
+height: 100px;
+width: 100px;
 }
 
 /* scale SVG to fit container */
 svg {
-  width: 100%; /* or any specific size */
+  width: 50px; /* or any specific size */
   height: auto;
   /* Center and fit */
   preserveAspectRatio: xMidYMid meet;
+}
+
+
+.swords {
+fill: lightgray;
+}
+
+#shield {
+fill: gray;
+}
+
+.left {
+fill: peachpuff;
+}
+
+.bottom-text, .top-text {
+stroke: violet;
+}
+
+#potion {
+fill: purple;
+}
+
+#castle {
+fill: lightgray;
+}
+
+#magic-wand {
+fill: violet;
+}
+
+#sparkle {
+fill: gold;
+}
+
+#crown {
+fill: gold;
+}
+
+#sprout {
+fill: green;
 }
