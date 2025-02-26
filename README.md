@@ -18,4 +18,5 @@
 * [Normalize CSS](https://necolas.github.io/normalize.css/)
 * Favicons with [Figma](https://www.figma.com/)
 * Tested with [CodePen](https://codepen.io/)
+* Deployed with [Netlify](https://www.netlify.com/)
 
